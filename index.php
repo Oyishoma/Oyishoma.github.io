@@ -15,19 +15,20 @@
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&amp;display=swap" rel="stylesheet">
   <!-- CSS vendors-->
   <link rel="stylesheet" href="css/bootstrap-custom.css">
-  <link rel="stylesheet" href="css/ionicons.min.css">
-  <link rel="stylesheet" href="css/tiny-slider.css">
-  <link rel="stylesheet" href="css/lity.min.css">
-  <link rel="stylesheet" href="css/simplebar.min.css">
-  <link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap-custom.css">
+  <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
+  <link rel="stylesheet" type="text/css" href="css/tiny-slider.css">
+  <link rel="stylesheet" type="text/css" href="css/lity.min.css">
+  <link rel="stylesheet" type="text/css" href="css/simplebar.min.css">
+  <link rel="stylesheet" type="text/css" href="css/jquery.mb.YTPlayer.min.css">
   <!-- Main CSS-->
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
   <!-- CSS Color scheme-->
-  <link id="color-scheme" rel="stylesheet" href="css/colors/main-darkgreen.css">
+  <link id="color-scheme" type="text/css" rel="stylesheet" href="css/colors/main-darkgreen.css">
   <!-- Custom CSS (Add your custom CSS styles to this file)-->
-  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" type="text/css" href="css/custom.css">
   <!-- removeIf(customizerDist)-->
-  <link rel="stylesheet" href="../customizer/main.css">
+  <link rel="stylesheet" type="text/css" href="../customizer/main.css">
   <!-- endremoveIf(customizerDist)-->
 </head>
 

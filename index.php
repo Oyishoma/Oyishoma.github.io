@@ -128,7 +128,7 @@
                         </div>
                       </div>
                     </address>
-                    <div class="d-block d-sm-flex align-items-center"><a class="btn content-download button-main button-scheme" href="img/reuben.docx" download="Oyishoma's CV" role="button">Download CV</a>
+                    <div class="d-block d-sm-flex align-items-center"><a class="btn content-download button-main button-scheme" href="img/OYISHOMA PETER.docx" download="Oyishoma's CV" role="button">Download CV</a>
                       <ul class="list-unstyled list-inline content-follow">
                         <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-twitter"></i></a></li>
                         <li class="list-inline-item"><a href="#0"><i class="icon ion-logo-instagram"></i></a></li>
